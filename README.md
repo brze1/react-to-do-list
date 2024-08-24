@@ -1,4 +1,4 @@
-📝 Simple To-Do List
+📝 Simple To-Do List 
 A sleek and stylish to-do list application built using React and Node.js. This project showcases modern web development techniques with an emphasis on an attractive and responsive user interface.
 
 
